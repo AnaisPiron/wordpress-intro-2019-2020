@@ -5,3 +5,5 @@ wp-content/*
 !wp-content/themes
 wp-content/themes/*
 !wp-content/themes/ap-portfolio
+wp-content/themes/ap-portfolio/assets
+wp-content/themes/ap-portfolio/node_modules
